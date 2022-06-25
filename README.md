@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Vinicius Serrano
 - 📗 Buscando sempre evoluir 🥇
 - 🌱 Estudante de Java e React ...
-- 😄 Pronouns: ele/dele
+- 😄 Ele/Dele
 
 
 <div align="center">
