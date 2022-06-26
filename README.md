@@ -3,6 +3,7 @@
 - 🌱 Estudante de Java e React ...
 - 😄 Ele/Dele
 
+##
 
 <div align="center">
   <a href="https://github.com/viniciusserrano">
@@ -29,3 +30,5 @@
   </div>
   
   ![Snake animation](https://github.com/viniciusserrano/viniciusserrano/blob/output/github-contribution-grid-snake.svg)
+  
+  ##
