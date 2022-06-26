@@ -18,7 +18,7 @@
   <img align="center" alt="Vini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vini-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="right"  alt="Gif-IMG" src="https://www.alura.com.br/artigos/assets/hello-world-em-varias-linguagens/imagem1.gif">
+  <img align="right"  alt="Gif-IMG" src="https://thumbs.gfycat.com/HandsomeThickInsect-max-1mb.gif">
 </div>
   
   ## 
