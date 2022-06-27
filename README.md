@@ -2,8 +2,8 @@
 
 ## 👦&nbsp;Sobre mim
 - 📗 Buscando sempre evoluir 🥇
-- 🌱 Estudante de Java e React ...
-- 😄 Ele/Dele
+- 🌱 Estudante de Java e React e outras ferramentas
+- 
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusserrano&color=yellow" alt="Profile views" /> </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
