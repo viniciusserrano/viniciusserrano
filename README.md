@@ -2,7 +2,7 @@
 
 ## 👦&nbsp;Sobre mim
 - 📗 Buscando sempre evoluir 🥇
-- 🌱 Estudante de Java e React e outros Frameworks
+- 🌱 Estudante de Java e Angular e outros Frameworks
 - 💻 Tecnólogo em Informática para Negócios - FATEC
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusserrano&color=yellow" alt="Profile views" /> </p>
 
