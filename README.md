@@ -1,4 +1,4 @@
-<h1 align="left">Olá, Seja Bem vindo !</h1>
+<h1 align="left">Olá,<!-- <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30" width="40"> --> Seja Bem vindo !</h1>
 
 ## 👦&nbsp;Sobre mim
 - 📗 Buscando sempre evoluir 🥇
