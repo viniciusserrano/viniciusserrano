@@ -3,7 +3,7 @@
 ## 👦&nbsp;Sobre mim
 - 📗 Buscando sempre evoluir 🥇
 - 🌱 Dev Java
-- 💻 Tecnólogo em Informática para Negócios - FATEC
+- 💻 Formado na Faculdade do Estado de São Paulo - FATEC
 - <p align="left"> <img src="https://komarev.com/ghpvc/?username=viniciusserrano&color=yellow" alt="Profile views" /> </p>
 
 ## ⚙️ &nbsp;GitHub Analytics
