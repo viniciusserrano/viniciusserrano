@@ -112,10 +112,6 @@ public class Vinicius extends Developer {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusserrano&theme=tokyonight&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak"/>
 
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusserrano&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" width="100%" height="3"/>
