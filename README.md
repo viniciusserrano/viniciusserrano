@@ -105,16 +105,16 @@ public class Vinicius extends Developer {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=viniciusserrano&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&hide_border=true&include_all_commits=true&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusserrano&layout=compact&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&hide_border=true"/>
+![Followers](https://img.shields.io/github/followers/viniciusserrano?style=for-the-badge&logo=github&logoColor=00D9FF&color=0D1117&labelColor=0D1117&label=FOLLOWERS)
+![Profile Views](https://komarev.com/ghpvc/?username=viniciusserrano&style=for-the-badge&color=00D9FF&label=VIEWS)
 
-<br/><br/>
+<br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusserrano&theme=tokyonight&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=viniciusserrano&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=viniciusserrano&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
