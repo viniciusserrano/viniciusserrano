@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vinicius%20Serrano&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=Java%20Developer%20%7C%20AI%20%26%20Agent%20Skills&descAlignY=58&descSize=18" width="100%"/>
-
-<!-- desc do header: Java Developer | AI & Agent Skills -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Vinicius%20Serrano&fontSize=55&fontColor=00D9FF&animation=fadeIn&fontAlignY=36&desc=Java%20Developer%20%7C%20IA%20%7C%20Agent%20Skills&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://github.com/viniciusserrano">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+seja+bem-vindo!+%F0%9F%91%8B;Desenvolvedor+Java+%E2%98%95;Construindo+com+IA+e+Agent+Skills+%F0%9F%A4%96;Sempre+em+evolu%C3%A7%C3%A3o+%F0%9F%9A%80" alt="Typing SVG" />
